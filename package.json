@@ -1,0 +1,22 @@
+{
+  "name": "imitatepromise",
+  "version": "1.0.0",
+  "description": "Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCrookedMan/ImitatePromise.git"
+  },
+  "keywords": [
+    "Promise"
+  ],
+  "author": "thecrookedman@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheCrookedMan/ImitatePromise/issues"
+  },
+  "homepage": "https://github.com/TheCrookedMan/ImitatePromise#readme"
+}
